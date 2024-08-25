@@ -8,8 +8,8 @@ I'm passionate about open-source software and love contributing to the community
 - **Learning:** I'm constantly learning and expanding my skills, especially in areas like cloud computing, DevOps, and AI.
 
 ## 🚀 My Projects
-*I am working on a big project...*
-
+*I am working on a big project that isn't listed here...*
+- [🧮 Extreme Math!](https://github.com/sudo-arash/extreme_math)
 
 ## 💬 Let's Connect!
 - **Email:** [arashaminiasdf@gmail.com](mailto:arashaminiasdf@gmail)
