@@ -10,6 +10,8 @@ I would love to help projects grow and I love team work!
 ## 🚀 My Projects
 *I am working on a big project that isn't listed here...*
 - [🧮 Extreme Math!](https://github.com/sudo-arash/extreme_math)
+- [🚀 Space Calculator](https://github.com/sudo-arash/space-calculator)
+- [📡 Network Scanner](https://github.com/sudo-arash/network-scanner)
 
 ## 💬 Let's talk, shall we?
 - **Email:** [arashaminiasdf@gmail.com](mailto:arashaminiasdf@gmail)
