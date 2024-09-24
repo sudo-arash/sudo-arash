@@ -8,7 +8,7 @@ I would love to help projects grow and I love team work!
 - **Learning:** I'm constantly learning and improving my skills, especially in areas like cloud computing, DevOps, and AI.
 
 ## 🚀 My Projects
-*I am working on a big project that isn't listed here...*
+- THE BIG PROJECT: [EassyPy AI](https://github.com/sudo-arash/essaypyapi)
 - [🧮 Extreme Math!](https://github.com/sudo-arash/extreme_math)
 - [🚀 Space Calculator](https://github.com/sudo-arash/space-calculator)
 - [📡 Network Scanner](https://github.com/sudo-arash/network-scanner)
