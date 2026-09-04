@@ -1,4 +1,4 @@
-name: Minecraft Commit Tree
+name: 🌸 Minecraft Commit Tree
 
 on:
   schedule:
@@ -8,22 +8,31 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: minecraft-commit-tree
+  cancel-in-progress: true
+
 jobs:
   update-tree:
+    name: Generate Minecraft Commit Tree
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
-      - name: Checkout
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: Minecraft Commit Tree
+      - name: 🌸 Generate Minecraft Commit Tree
         uses: nivinvysakh/gh-tree@v1.1.0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          tree-type: "oak"
-          city: "Manchester"
+
+          tree-type: "sakura"
+          city: "Tehran"
           weather: "auto"
+
           days: "140"
           pr-days: "14"
+
           show-signpost: "true"
           show-bee: "true"
