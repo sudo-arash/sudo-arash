@@ -28,7 +28,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
 
           tree-type: "sakura"
-          city: "Tehran"
+          city: "Manchester"
           weather: "auto"
 
           days: "140"
