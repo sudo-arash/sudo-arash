@@ -9,7 +9,7 @@
 <br>
 
 <!-- commit-tree-start -->
-<img src="tree.gif" alt="Minecraft Commit Tree" width="460">
+![tree](tree.gif?v=1788579102043)
 <!-- commit-tree-end -->
 
 <br>
