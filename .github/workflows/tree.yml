@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: 🌸 Generate Minecraft Commit Tree
-        uses: nivinvysakh/gh-tree@v1.1.0
+        uses: nivinvysakh/gh-tree@v1.4.0 
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           tree-type: sakura
